@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DukeBotWBingo/static/css/main.84143c85.css",
-    "main.js": "/DukeBotWBingo/static/js/main.1e58c752.js",
+    "main.js": "/DukeBotWBingo/static/js/main.4dfb51c4.js",
     "static/media/IMG_1846.jpeg": "/DukeBotWBingo/static/media/IMG_1846.59560e49b42abe23973f.jpeg",
     "static/media/IMG_2795.jpeg": "/DukeBotWBingo/static/media/IMG_2795.e27baf88837c8e7f032d.jpeg",
     "static/media/IMG_2826.jpeg": "/DukeBotWBingo/static/media/IMG_2826.e676cf81f41364585523.jpeg",
@@ -79,10 +79,10 @@
     "static/media/duke_wordmark_white.png": "/DukeBotWBingo/static/media/duke_wordmark_white.9bbdaeaa229e7c2d920e.png",
     "index.html": "/DukeBotWBingo/index.html",
     "main.84143c85.css.map": "/DukeBotWBingo/static/css/main.84143c85.css.map",
-    "main.1e58c752.js.map": "/DukeBotWBingo/static/js/main.1e58c752.js.map"
+    "main.4dfb51c4.js.map": "/DukeBotWBingo/static/js/main.4dfb51c4.js.map"
   },
   "entrypoints": [
     "static/css/main.84143c85.css",
-    "static/js/main.1e58c752.js"
+    "static/js/main.4dfb51c4.js"
   ]
 }
