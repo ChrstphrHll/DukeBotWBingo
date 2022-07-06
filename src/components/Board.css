@@ -1,0 +1,25 @@
+.square{
+    position: relative;
+    width: 15vmin;
+    height: 15vmin;
+    background-color: transparent;
+    border: 2px solid #F3F2F1;
+    margin-right: -1px;
+    margin-top: -1px;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+.board-img {
+    height: inherit;
+    width: inherit;
+    object-fit: cover;
+    object-position: center center;
+}
+
+.board {
+    margin-top: 15px;
+}
